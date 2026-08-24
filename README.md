@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/itzamanarora/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/itzamanarora/leetcode-solutions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/itzamanarora/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/itzamanarora/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/itzamanarora/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/itzamanarora/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/itzamanarora/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/itzamanarora/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Prefix Sum
 |  |
