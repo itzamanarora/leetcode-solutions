@@ -1,8 +1,11 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-        int first = search(nums, target, true);
-        int last = search(nums, target, false);
-        return new int[] {first, last};
+        int[] arr = {-1,-1};
+        arr[0] = search(nums, target, true);
+        if(arr[0] != -1) {
+            arr[1] = search(nums, target, false);
+        }
+        return arr;
     }
 
     private static int search(int[] nums, int target, boolean startIndex) {
