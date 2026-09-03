@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/itzamanarora/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/itzamanarora/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/itzamanarora/leetcode-solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/itzamanarora/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/itzamanarora/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/itzamanarora/leetcode-solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/itzamanarora/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itzamanarora/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/itzamanarora/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/itzamanarora/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/itzamanarora/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/itzamanarora/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/itzamanarora/leetcode-solutions/tree/master/0189-rotate-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/itzamanarora/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/itzamanarora/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Prefix Sum
